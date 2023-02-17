@@ -6,4 +6,4 @@ This reference is a compilation of all functions required in programming and lab
 
 ## Find functions by...
 * Alphabetical order
-* Project assignment
+* Programming assignment
