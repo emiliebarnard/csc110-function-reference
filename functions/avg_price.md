@@ -1,1 +1,3 @@
-# avg_price(grocery_data)
+# avg_price
+
+avg_price(grocery_data)
