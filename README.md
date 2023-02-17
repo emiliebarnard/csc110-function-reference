@@ -5,5 +5,5 @@ This reference is a compilation of all functions required in programming and lab
 <br>
 
 ## Find functions by...
-* Alphabetical order
+* [Alphabetical order](https://github.com/emiliebarnard/csc110-function-reference/tree/main/functions)
 * Programming assignment
