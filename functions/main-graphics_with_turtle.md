@@ -1,5 +1,9 @@
 # main-graphics_with_turtle
 
+`main()`
+
+<br>
+
 Controls flow of program, including:
 - input
 - turtle object creation
