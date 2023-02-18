@@ -6,11 +6,11 @@
 
 ### Table of Contents
 
-[Exam Grade Calculator](https://github.com/ChristaMitchell/ProjectBetaDraft/blob/main/pa.md#exam-grade-calculator)   
-[Graphics with Turtle](https://github.com/ChristaMitchell/ProjectBetaDraft/edit/main/pa.md#graphics-with-turtle)  
-Guido’s Grocery Database  
-Meteorite Data Processing  
-Vigenère Cipher
+[Exam Grade Calculator](https://github.com/emiliebarnard/csc110-function-reference/edit/main/pa.md#exam-grade-calculator)    
+[Graphics with Turtle](https://github.com/emiliebarnard/csc110-function-reference/edit/main/pa.md#graphics-with-turtle)   
+[Guido’s Grocery Database](https://github.com/emiliebarnard/csc110-function-reference/edit/main/pa.md#guidos-grocery-database)  
+[Meteorite Data Processing](https://github.com/emiliebarnard/csc110-function-reference/edit/main/pa.md#meteorite-data-processing)  
+[Vigenère Cipher](https://github.com/emiliebarnard/csc110-function-reference/edit/main/pa.md#meteorite-data-processing)
 
 ---
 
