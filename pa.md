@@ -20,7 +20,7 @@ calculate_current_grade
 calculate_exam_score    
 main-exam_grade_calculator
 
-<br>
+---
 
 ## Graphics with Turtle
 
@@ -28,7 +28,7 @@ draw_concentric_circles
 draw_polygon  
 main-graphics_with_turtle
 
-<br>
+---
 
 ## Guido’s Grocery Database
 
@@ -38,7 +38,7 @@ display_table
 main-guido’s_grocery_database  
 total_stock
 
-<br>
+---
 
 ## Meteorite Data Processing
 
@@ -46,7 +46,7 @@ create_mass_file
 get_meteorite_info  
 main-meteorite_data_processing
 
-<br>
+---
 
 ## Vigenère Cipher
 
