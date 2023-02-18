@@ -16,40 +16,40 @@
 
 ## Exam Grade Calculator 
 
-calculate_current_grade  
-calculate_exam_score    
-main-exam_grade_calculator
+[calculate_current_grade](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/calculate_current_grade.md)   
+[calculate_exam_score](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/calculate_exam_score.md)  
+[main-exam_grade_calculator](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/main-exam_grade_calculator.md)
 
 ---
 
 ## Graphics with Turtle
 
-draw_concentric_circles  
-draw_polygon  
-main-graphics_with_turtle
+[draw_concentric_circles](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/draw_concentric_circles.md)  
+[draw_polygon](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/draw_polygon.md)  
+[main-graphics_with_turtle](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/main-graphics_with_turtle.md)
 
 ---
 
 ## Guido’s Grocery Database
 
-add_product  
-avg_price  
-display_table  
-main-guido’s_grocery_database  
-total_stock
+[add_product](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/add_product.md)  
+[avg_price](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/avg_price.md)  
+[display_table](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/display_table.md)  
+[main-guido’s_grocery_database](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/main-guido%E2%80%99s_grocery_database.md)  
+[total_stock](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/total_stock.md)
 
 ---
 
 ## Meteorite Data Processing
 
-create_mass_file   
-get_meteorite_info  
-main-meteorite_data_processing
+[create_mass_file](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/create_mass_file.md)  
+[get_meteorite_info](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/get_meteorite_info.md)  
+[main-meteorite_data_processing](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/main-meteorite_data_processing.md)
 
 ---
 
 ## Vigenère Cipher
 
-dec    
-enc    
-main-vigenère_cipher
+[dec](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/dec.md)   
+[enc](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/enc.md)  
+[main-vigenère_cipher](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/main-vigen%C3%A8re_cipher.md)
