@@ -10,7 +10,7 @@
 [Graphics with Turtle](https://github.com/emiliebarnard/csc110-function-reference/blob/main/pa.md#graphics-with-turtle)   
 [Guido’s Grocery Database](https://github.com/emiliebarnard/csc110-function-reference/blob/main/pa.md#guidos-grocery-database)  
 [Meteorite Data Processing](https://github.com/emiliebarnard/csc110-function-reference/blob/main/pa.md#meteorite-data-processing)  
-[Vigenère Cipher](https://github.com/emiliebarnard/csc110-function-reference/blob/main/pa.md#meteorite-data-processing)
+[Vigenère Cipher](https://github.com/emiliebarnard/csc110-function-reference/blob/main/pa.md#vigen%C3%A8re-cipher)
 
 ---
 
