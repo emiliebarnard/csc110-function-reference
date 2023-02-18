@@ -25,7 +25,7 @@
 ## Graphics with Turtle
 
 [draw_concentric_circles](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/draw_concentric_circles.md)  
-[draw_polygon](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/draw_polygon.md) 
+[draw_polygon](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/draw_polygon.md)  
 [main-graphics_with_turtle](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/main-graphics_with_turtle.md)
 
 ---
