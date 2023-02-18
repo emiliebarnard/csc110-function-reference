@@ -14,9 +14,9 @@ Displays formatted table of current grocery products and their associated inform
 | ------------ | ------------ |------------- | --------------- |
 | Milk         | 95520        | 3.27         | 20              |
 | Eggs         | 55504        | 2.97         | 15              |
-| Bread        | 57971        | 2.78         |20               |
-| Apples       | 19791        | 0.78         |70               |
+| Bread        | 57971        | 2.78         | 20              |
+| Apples       | 19791        | 0.78         | 70              |
 | Cheese Bits  | 32510        | 2.99         | 25              |
-| Cheese Bytes | 84159        |23.92         | 10              |
+| Cheese Bytes | 84159        | 23.92        | 10              |
 
 ```
