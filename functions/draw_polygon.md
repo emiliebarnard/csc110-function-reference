@@ -1,4 +1,4 @@
-# calculate_current_grade
+# draw_polygon
 
 `draw_polygon(our_turtle, num_sides, side_length)`
 
