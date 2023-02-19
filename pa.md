@@ -1,8 +1,6 @@
 # Programming Assignments - Chronological Order
 
-**This page lists the required functions needed to complete each programming assignment.**
-
----
+This page lists the required functions needed to complete each programming assignment.  
 
 ### Table of Contents
 
