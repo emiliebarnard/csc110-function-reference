@@ -50,4 +50,9 @@ This page lists the required functions needed to complete each programming assig
 
 [dec](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/dec.md)   
 [enc](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/enc.md)  
-[main-vigenère_cipher](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/main-vigen%C3%A8re_cipher.md)
+[main-vigenère_cipher](https://github.com/emiliebarnard/csc110-function-reference/blob/main/functions/main-vigen%C3%A8re_cipher.md)  
+
+<br>
+
+## Find functions by...
+* [Alphabetical order](https://github.com/emiliebarnard/csc110-function-reference/tree/main/functions "Go to functions folder")
