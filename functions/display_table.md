@@ -20,3 +20,9 @@ Displays formatted table of current grocery products and their associated inform
 | Cheese Bytes | 84159        | 23.92        | 10              |
 
 ```
+
+<br>
+
+### Find functions by...
+* [Alphabetical order](https://github.com/emiliebarnard/csc110-function-reference/tree/main/functions "Go to functions folder")
+* [Programming assignment](https://github.com/emiliebarnard/csc110-function-reference/blob/main/pa.md "Programming assignments in chronological order")
