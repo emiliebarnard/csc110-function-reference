@@ -19,3 +19,9 @@ calculate_current_grade(89, 100, 85)
 calculate_current_grade(77.5, 95, 83.75)
 63.5625
 ```
+
+<br>
+
+### Find functions by...
+* [Alphabetical order](https://github.com/emiliebarnard/csc110-function-reference/tree/main/functions "Go to functions folder")
+* [Programming assignment](https://github.com/emiliebarnard/csc110-function-reference/blob/main/pa.md "Programming assignments in chronological order")
